@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rodrig-mirena112.github.io/winning-kaiyun-com-cn/sitemap.xml
